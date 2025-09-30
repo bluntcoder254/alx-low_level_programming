@@ -1,3 +1,5 @@
-#0x00-hello_world
-0-preprocessor
-a script that runs a C file through the preprocessor and save the result
+#ALX LOW LEVEL PRGRAMMING
+This repository contains my solutions for exercies in the ALX Software Engineering Course
+
+#Respository Structure
+0x00-hello_world
