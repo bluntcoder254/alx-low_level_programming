@@ -1,6 +1,3 @@
-# ALX LOW LEVEL PROGRAMMING
-
-This repository contains my solutions and exercises for the ALX Software Engineering
-course.
-
-# Repository Structure
+#0x00-hello_world
+0-preprocessor
+a script that runs a C file through the preprocessor and save the result
